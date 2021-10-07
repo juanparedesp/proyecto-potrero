@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset=utf-8 />
+        <title>Página principal</title>
+        <meta name="description" content="Contacto e informacion de Via Cargo en Villa la Angostura">
+        <meta name="author" content="Juan Paredes">
+        <meta name="keywords" content="Via Cargo, Villa la angostura, encomiendas, envios">
+        <link rel="stylesheet" href="estilos.css" >
+    </head>
+    <body>
+        <header>
+            <img src=logo.png>
+            <h2>Villa la Angostura</h2>
+        </header>
+
+        <nav>
+            <ul>
+                <a href="ayuda.html"><li>Ayuda</li></a>
+                <a href="contacto.html"><li>Contacto</li></a>
+                <a href="sucursales.html"><li>Más sucursales</li></a>
+            </ul>
+        </nav>
+        
+        <section>
+            <article>
+               <hgroup>
+                <h2>¿Que somos?</h2>
+               </hgroup>
+                 <time datetime "23-09-2021">Publicado el 23 de septiembre del 2021</time>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem porro assumenda perferendis itaque architecto soluta voluptatibus dolorum eius reiciendis aliquid fuga at, similique dicta quas pariatur quibusdam optio cupiditate harum.</p>
+            </article>
+            <article>
+               <hgroup>
+                <h2>texto 2</h2>
+               </hgroup>
+                 <time datetime "23-09-2021">Publicado el 23 de septiembre del 2021</time>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio laboriosam magnam quas ut asperiores cupiditate. Ex aperiam debitis, quisquam minus et perferendis facere? Quod distinctio quam consequatur adipisci, voluptates neque.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h3>Preguntas frecuentes</h3>
+            <ul>
+                <a href=""><li>Seguro</li> </a>
+                <a href=""><li>Valores</li></a>
+            </ul>
+            
+        </aside>
+
+        <footer>
+            Derechos reservados etc
+        </footer>
+    </body> 
+   
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset=utf-8 />
+        <title>Página principal</title>
+        <meta name="description" content="Contacto e informacion de Via Cargo en Villa la Angostura">
+        <meta name="author" content="Juan Paredes">
+        <meta name="keywords" content="Via Cargo, Villa la angostura, encomiendas, envios">
+        <link rel="stylesheet" href="estilos.css" >
+    </head>
+    <h1>Más sucursales:</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint inventore doloremque facilis, consequatur maiores quisquam incidunt, mollitia, est hic illum iste vitae pariatur? Minima similique eos voluptates voluptate beatae labore.</p>
+    <ul>
+        <a href="index.html"></index><li>Volver</li></a>
+    </ul>
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset=utf-8 />
+        <title>Página principal</title>
+        <meta name="description" content="Contacto e informacion de Via Cargo en Villa la Angostura">
+        <meta name="author" content="Juan Paredes">
+        <meta name="keywords" content="Via Cargo, Villa la angostura, encomiendas, envios">
+        <link rel="stylesheet" href="estilos.css" >
+    </head>
+    <h1>Ayuda</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsa beatae sit eos quod nostrum, quia totam fuga culpa numquam debitis? Illum, saepe esse enim minus autem repudiandae quibusdam beatae!</p>
+    <ul>
+        <a href=index.html><li>Volver</li></a>
+    </ul>
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset=utf-8 />
+        <title>Contacto</title>
+        <meta name="description" content="Contacto e informacion de Via Cargo en Villa la Angostura">
+        <meta name="author" content="Juan Paredes">
+        <meta name="keywords" content="Via Cargo, Villa la angostura, encomiendas, envios, contacto">
+        <link rel="stylesheet" href="estilos.css" >
+    </head>
+    <h1>Contacto:</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi dolore quis libero, delectus sequi ab nihil officia rem, dignissimos asperiores accusamus eveniet accusantium dolores praesentium voluptatibus maxime porro molestiae! Dignissimos?</p>
+    <ul>
+        <a href="index.html"><li>Volver</li></a>
+    </ul>
+* {
+    padding: 0%;
+    background-color: darkseagreen;
+}
